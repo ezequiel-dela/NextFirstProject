@@ -1,0 +1,25 @@
+{
+  "name": "NextFirstProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyfallX/NextFirstProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyfallX/NextFirstProject/issues"
+  },
+  "homepage": "https://github.com/skyfallX/NextFirstProject#readme",
+  "dependencies": {
+    "next": "^12.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
